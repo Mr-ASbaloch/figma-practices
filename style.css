@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: whitesmoke;
+    width: auto;
+
+}
+.para{
+    text-align: center;
+    font-size: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p,h1{
+    text-align: center;
+}
+div imag{
+    width: 100vw;
+}
+ul li{
+    display: inline-block;
+    margin: 0;
+    padding: 20px;
+}
+a{
+    padding-right: 15px;
+    text-decoration: none;
+}
